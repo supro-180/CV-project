@@ -1,0 +1,114 @@
+  *{
+      margin: 0;
+      padding: 0;      
+  }
+
+  body{
+    
+    background-color: rgb(245, 244, 179);
+    
+
+  }
+  .container{
+      max-width: 1000px;
+      height: 736px;
+      background-color: aqua;
+      margin: 0 auto;
+      padding: 1%;
+      color:blue;
+  }
+  header{
+
+
+
+  }
+  .image{
+
+      border: 3px solid white;
+      height: 65px;
+      width: 70px;
+      border-radius: 50%;
+      float: left;
+
+  }
+  .header-info{
+      float: left;
+      padding: 5px;
+      color: blue;
+    
+  }
+  .header-cont{
+    float: right;
+    padding: 10px;
+}
+
+
+.header-cont a{
+     
+    text-decoration: none;
+    font-weight: bold;
+}
+.header-cont a:hover{
+    text-decoration: underline;
+    color:red;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+     border: black solid 2px;
+     width: 100%;
+     margin: 20px auto;
+     border-bottom: none;
+}
+
+.personal-section{
+    color: blue;
+
+}
+.left-div{
+    width: 30%;
+    float: left;
+
+
+}
+.right-div{
+    width: 70%;
+    float: right;
+
+}
+.common-hr{
+    border: black solid 1px;
+     width: 100%;
+     border-bottom: none;
+     margin: 20px auto;
+
+}
+.edu-left{
+    float: left;
+}
+.edu-right{
+    float: right;
+}
+.end-line{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+
+}
+.end-line a{
+
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.end-line a:hover{
+    text-decoration: underline;
+    color:red;
+}
+
+.end-line p{
+
+    color: yellowgreen;
+    margin-top: 20px;
+}
